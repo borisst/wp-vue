@@ -1,6 +1,8 @@
 # wp-vue
 
-> A Vue.js project
+>With this simple app you can get posts from WP with entering only URL of the site. After enter the URL in the form app takes latest post trough REST API and user can select and store the posts into firbase.
+>
+>You can preview saved posts and delete.
 
 ## Build Setup
 
